@@ -34,6 +34,9 @@ function App() {
       <AppContainer>
         <FlexBoxCol>
           <FlexBoxRow>
+            <div>MarkeTON</div>
+          </FlexBoxRow>
+          <FlexBoxRow>
             <TonConnectButton />
             <Button>
               {network
