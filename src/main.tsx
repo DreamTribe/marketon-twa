@@ -3,7 +3,7 @@ import { TonConnectUIProvider } from "@tonconnect/ui-react";
 import ReactDOM from "react-dom/client";
 import App from "./App";
 import "./index.css";
-// this manifest is used temporarily for development purposes
+
 const manifestUrl = "https://dreamtribe.github.io/marketon-twa/tonconnect-manifest.json";
 
 const queryClient = new QueryClient({
